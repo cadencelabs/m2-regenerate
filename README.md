@@ -31,7 +31,7 @@ The grunt task uses *grunt-contrib-watch* to look for changes to the below files
 
 * app/etc/config.php
 * app/**/di.xml
-* app/code/**/\.php
+* app/code/**/\*\.php
 
 Anytime the global config file or a di.xml file is changed, the script will clear the entire *var/generation* folder. 
 
