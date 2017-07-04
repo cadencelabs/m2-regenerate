@@ -1,0 +1,11 @@
+{
+  "name": "cadence-regenerate",
+  "version": "1.0.0",
+  "author": "Alan Barber <info@cadence-labs.com>",
+  "email": "info@cadence-labs.com",
+  "url": "www.cadence-labs.com",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
