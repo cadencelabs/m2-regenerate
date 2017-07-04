@@ -48,4 +48,4 @@ The grunt system included in Magento 2 at *dev/tools/* is geared towards fronten
 
 ### Where can I get more information? ###
 
-See our official support guide here: https://www.cadence-labs.com/
+See our official support guide here: https://www.cadence-labs.com/2017/07/magento-2-automatically-regenerate-interceptors-factories-vargeneration/
