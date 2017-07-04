@@ -10,7 +10,7 @@ Unzip the files into *{MAGENTO_ROOT}/bin/regenerate*
 
 Once you've unzipped the files, update the Gruntfile.js to make sure the path to the Magento 2 *app* folder is correct (if you followed the directions above, it should be). 
 
-You can then run the below command to install
+You can then run the below command to install, assuming you change into the *{MAGENTO_ROOT}/bin/regenerate* folder
 
 
 ```
@@ -28,6 +28,7 @@ grunt cadence:regenerate
 ### How does it work? ###
 
 The grunt task uses *grunt-contrib-watch* to look for changes to the below files:
+
 * app/etc/config.php
 * app/**/di.xml
 * app/code/**/*.php
