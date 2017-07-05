@@ -43,7 +43,7 @@ The biggest issue I've run into is accidentally running *bin/magento setup:di:co
 
 ### Why did you add your own Gruntfile.js? ###
 
-The grunt system included in Magento 2 at *dev/tools/* is geared towards frontend development, and it's difficult to add additional tasks which operate on the backend. For simplicity's sake, I wanted this to be a stand-alone app that you exclude from git and only run on your development box. 
+For simplicity's sake, I wanted this to be a stand-alone app that you exclude from git and only run on your development box. 
 
 
 ### Where can I get more information? ###
