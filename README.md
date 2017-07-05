@@ -1,6 +1,6 @@
 # cadence/m2-regenerate #
 
-This Gruntfile and associated task are meant to allow rapid deployment of a Magento 2 installation in *developer* mode. 
+This Gruntfile and associated task are meant to allow development of a Magento 2 installation in *developer* mode without having to clear the var/generation folder.
 
 ### Where do the files go ###
 
